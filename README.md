@@ -1,1 +1,2 @@
 # Schemat-i-opis-drukarki-kwantowej-radio.
+Replikator to fikcyjne urządzenie istniejące w uniwersum Star Trek. Replikator potrafi tworzyć materię z energii, dzięki technologii zamieniania energii w molekuły według danego wzorca. Jest powszechnie wykorzystywany w Gwiezdnej Flocie, najczęściej do "tworzenia" (powielania) żywności. W kilka sekund może powstać dowolnie wybrane danie, praktycznie nieróżniące się smakiem od oryginału.
